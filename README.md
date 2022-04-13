@@ -1,6 +1,6 @@
 ### Hi there 👋, My name is Emilia
 #### I am junior frontend developer
-I love coding, travelling and music :)
+I love coding and learning new technology or something new about develoment!
 
 Skills: REACT / JS / HTML / CSS
 
